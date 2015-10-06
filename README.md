@@ -1,4 +1,5 @@
 # Tachyons::Rails
+[![Gem Version](https://badge.fury.io/rb/tachyons-rails.svg)](http://badge.fury.io/rb/tachyons-rails)
 
 CSS files for [tachyons](http://tachyons.io).
 
