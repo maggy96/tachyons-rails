@@ -30,8 +30,6 @@ See the [Documentation of tachyons](http://tachyons.io/docs/).
 
 [tachyons tldr](https://tachyons-tldr.now.sh/#/classes) by [Varun Vachhar](https://twitter.com/winkerVSbecks) - "A tool for searching tachyons classes by name or CSS props. Also, all scales and skins in one view."
 
-See the [Documentation of tachyons](http://tachyons.io/docs/).
-
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/maggy96/tachyons-rails.
