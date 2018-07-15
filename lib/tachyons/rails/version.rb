@@ -1,5 +1,5 @@
 module Tachyons
   module Rails
-    VERSION = "4.9.0"
+    VERSION = "4.10.0"
   end
 end
