@@ -22,6 +22,12 @@ Add `tachyons` to application.css (Use `tachyons.min` for the minimized version)
 *= require tachyons.min
 ```
 
+Add `@import 'tachyons'` to `application.scss` if you're using SASS
+
+```SCSS
+@import 'tachyons';
+```
+
 ## Usage
 
 See the [Documentation of tachyons](http://tachyons.io/docs/).
